@@ -1,0 +1,4 @@
+class productmodel:
+
+    pass
+
